@@ -4,7 +4,7 @@
 **Вариант:** 3    
 **Задание:**  
 Генератор мотивашек (бот по нажатию на кнопку выдает мотивационную картинку).  
-**ССылка на бота:** https://t.me/ivt_223_lab2_bot (неактивен)  
+**Сылка на бота:** https://t.me/ivt_223_lab2_bot (неактивен)  
 **Скриншоты работы бота:**  
 ![image](https://user-images.githubusercontent.com/89301505/229344380-1ba92b7e-bbb7-412c-9a8f-ec42697c4d73.png)
 ![image](https://user-images.githubusercontent.com/89301505/229344396-781121b8-9031-4f68-9cab-9fa4d8620380.png)
